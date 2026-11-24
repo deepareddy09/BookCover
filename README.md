@@ -1,5 +1,5 @@
 Ex.05 Book Cover Page Design
-Date:
+Date:24/11/26
 AIM:
 To design a book back cover page using HTML and CSS.
 
@@ -30,5 +30,6 @@ Publish the website in the LocalHost.
 
 PROGRAM:
 OUTPUT:
+
 RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
